@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class CricketMatch {
+class Cricketmatchhg {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -184,4 +184,4 @@ class CricketMatch {
         double runRate = (double) totalRuns / oversCompleted;
         System.out.printf("%s: %d/%d (%d overs)  Run Rate: %.2f%n", "Score", totalRuns, totalWickets, oversCompleted, runRate);
     }
-}
+                        }
